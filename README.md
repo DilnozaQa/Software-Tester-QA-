@@ -1,16 +1,4 @@
 
-### Process to Become a Software Tester
-![alttext](https://github.com/gyanprakash0221/Software-Tester-QA-/blob/main/123016_1258_SoftwareTes2.png)
-
-
-
-- Selenium - Automation tool, 
-
-- JMeter - Performance Testing tool and  
-
-- TestLink - Test Management Tool.
-
-
 ### SOFTWARE TESTING TOOLS
 
 | Testing Tools   | used for  | Link |
